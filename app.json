@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A React Native application that allows you to list the things you no longer need.",
+    "githubUrl": "https://github.com/dsound-zz/DoneWithIt_Native_React_app"
   }
 }
